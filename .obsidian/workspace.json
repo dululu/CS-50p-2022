@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bcb1cb7b38f86bfc",
+        "id": "c1964f12b15f1c64",
         "type": "tabs",
         "children": [
           {
-            "id": "daf6abd173cf0c64",
+            "id": "66a9b1cd701d419e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro.md",
+                "file": "Notes/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro.md",
+                "file": "Notes/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intro.md",
+                "file": "Notes/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intro.md"
+                "file": "Notes/Introduction.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,9 +151,33 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "vscode-editor:新建代码文件": false
     }
   },
-  "active": "daf6abd173cf0c64",
-  "lastOpenFiles": []
+  "active": "da82330951a602fd",
+  "lastOpenFiles": [
+    "Notes/lecture 1.md",
+    "Notes/lecture 3.md",
+    "Notes/lecture 2.md",
+    "code/1-2/meow.py",
+    "code/1-2/mario.py",
+    "code/1-2/hogwarts.py",
+    "code/1-2/compare.py",
+    "code/1-2",
+    "Notes/Introduction.md",
+    "code/mario.py",
+    "code/meow.py",
+    "Notes/pics",
+    "Notes/pics/Pasted image 20240601025027.png",
+    "Notes/pics/Pasted image 20240601024756.png",
+    "code/hogwarts.py",
+    "code/compare.py",
+    "Pasted image 20240531010922.png",
+    "Pasted image 20240531011014.png",
+    "Pasted image 20240531010122.png",
+    "Pasted image 20240531010041.png",
+    "comapre.py.md",
+    "intro.md"
+  ]
 }

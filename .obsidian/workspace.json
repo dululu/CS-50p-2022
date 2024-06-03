@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Notes/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Notes/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "Notes/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "Notes/Introduction.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "ba6c58ece84b35f4",
   "lastOpenFiles": [
-    "Notes/lecture 2.md",
     "readme.md",
+    "Notes/lecture 2.md",
     "未命名",
     "Notes/lecture 3.md",
     "Notes/Introduction.md",

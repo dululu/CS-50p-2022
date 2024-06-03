@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1964f12b15f1c64",
+        "id": "13435ad5806fef1a",
         "type": "tabs",
         "children": [
           {
-            "id": "66a9b1cd701d419e",
+            "id": "ba6c58ece84b35f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -155,8 +156,9 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "da82330951a602fd",
+  "active": "ba6c58ece84b35f4",
   "lastOpenFiles": [
+    "Notes/Introduction.md",
     "Notes/lecture 1.md",
     "Notes/lecture 3.md",
     "Notes/lecture 2.md",
@@ -165,7 +167,6 @@
     "code/1-2/hogwarts.py",
     "code/1-2/compare.py",
     "code/1-2",
-    "Notes/Introduction.md",
     "code/mario.py",
     "code/meow.py",
     "Notes/pics",

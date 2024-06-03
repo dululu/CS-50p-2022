@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Introduction.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Introduction.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Introduction.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Introduction.md"
+                "file": "readme.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "ba6c58ece84b35f4",
   "lastOpenFiles": [
+    "Notes/Introduction.md",
     "readme.md",
     "Notes/lecture 2.md",
     "未命名",
     "Notes/lecture 3.md",
-    "Notes/Introduction.md",
     "Notes/lecture 1.md",
     "code/1-2/meow.py",
     "code/1-2/mario.py",

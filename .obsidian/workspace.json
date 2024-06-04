@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/lecture 3.md",
+                "file": "lecture 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/lecture 3.md",
+                "file": "lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/lecture 3.md",
+                "file": "lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/lecture 3.md"
+                "file": "lecture 4.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "ba6c58ece84b35f4",
   "lastOpenFiles": [
-    "Notes/lecture 2.md",
     "Notes/lecture 3.md",
+    "lecture 4.md",
+    "Notes/lecture 2.md",
+    "code/3/number.py",
+    "code/3",
     "readme.md",
     "Notes/Introduction.md",
     "未命名",
@@ -171,10 +174,8 @@
     "code/1-2",
     "code/mario.py",
     "code/meow.py",
-    "Notes/pics",
     "Notes/pics/Pasted image 20240601025027.png",
     "Notes/pics/Pasted image 20240601024756.png",
-    "code/hogwarts.py",
     "Pasted image 20240531010922.png",
     "Pasted image 20240531011014.png",
     "Pasted image 20240531010122.png",

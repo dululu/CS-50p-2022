@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture 4.md",
+                "file": "Notes/lecture 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture 4.md",
+                "file": "Notes/lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture 4.md",
+                "file": "Notes/lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture 4.md"
+                "file": "Notes/lecture 4.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "ba6c58ece84b35f4",
   "lastOpenFiles": [
+    "readme.md",
     "Notes/lecture 3.md",
-    "lecture 4.md",
     "Notes/lecture 2.md",
+    "Notes/lecture 4.md",
+    "Notes/lecture 1.md",
+    "Notes/Introduction.md",
     "code/3/number.py",
     "code/3",
-    "readme.md",
-    "Notes/Introduction.md",
     "未命名",
-    "Notes/lecture 1.md",
     "code/1-2/meow.py",
     "code/1-2/mario.py",
     "code/1-2/hogwarts.py",

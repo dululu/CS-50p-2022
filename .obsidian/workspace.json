@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/lecture 4.md",
+                "file": "Notes/lecture 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5259e0c903216e14",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/lecture 4.md",
+                "file": "Notes/lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/lecture 4.md",
+                "file": "Notes/lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/lecture 4.md"
+                "file": "Notes/lecture 3.md"
               }
             }
           },
@@ -158,10 +159,12 @@
   },
   "active": "ba6c58ece84b35f4",
   "lastOpenFiles": [
-    "readme.md",
+    "Pasted image 20240609000110.png",
+    "Pasted image 20240609000046.png",
+    "Notes/lecture 4.md",
     "Notes/lecture 3.md",
     "Notes/lecture 2.md",
-    "Notes/lecture 4.md",
+    "readme.md",
     "Notes/lecture 1.md",
     "Notes/Introduction.md",
     "code/3/number.py",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/lecture 3.md",
+                "file": "Notes/lecture 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5259e0c903216e14",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/lecture 3.md",
+                "file": "Notes/lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/lecture 3.md",
+                "file": "Notes/lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/lecture 3.md"
+                "file": "Notes/lecture 4.md"
               }
             }
           },
@@ -159,14 +158,14 @@
   },
   "active": "ba6c58ece84b35f4",
   "lastOpenFiles": [
-    "Pasted image 20240609000110.png",
-    "Pasted image 20240609000046.png",
-    "Notes/lecture 4.md",
-    "Notes/lecture 3.md",
-    "Notes/lecture 2.md",
-    "readme.md",
-    "Notes/lecture 1.md",
     "Notes/Introduction.md",
+    "Notes/lecture 4.md",
+    "Notes/lecture 2.md",
+    "Notes/lecture 3.md",
+    "Notes/lecture 1.md",
+    "Pasted image 20240609000046.png",
+    "Pasted image 20240609000110.png",
+    "readme.md",
     "code/3/number.py",
     "code/3",
     "未命名",

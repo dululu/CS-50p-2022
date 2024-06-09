@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ae48941dd10f891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/lecture 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eca4c7becacb0d30",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -70,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5259e0c903216e14",
@@ -144,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,27 +179,27 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "ba6c58ece84b35f4",
+  "active": "eca4c7becacb0d30",
   "lastOpenFiles": [
+    "Notes/lecture 5.md",
+    "readme.md",
+    "Notes/lecture 4.md",
+    "Notes/lecture 3.md",
+    "Notes/lecture 2.md",
+    "Notes/lecture 1.md",
+    "Notes/Introduction.md",
+    "未命名",
+    "code/lecs/lec4_req.py",
     "code/lecs/lec4_cowsay.py",
     "code/lecs/lec4_sys.py",
-    "Notes/lecture 2.md",
     "code/lecs/lec2-1.py",
-    "Notes/lecture 1.md",
-    "Notes/lecture 3.md",
     "code/lecs/meow.py",
     "code/lecs/mario.py",
     "code/lecs/lec4.py",
     "code/lecs/lec3.py",
     "code/lecs/lec2.py",
-    "code/lecs/compare.py",
-    "code/lecs",
-    "code/1-2/lec3.py",
-    "Notes/lecture 4.md",
-    "Notes/Introduction.md",
     "Pasted image 20240609000046.png",
     "Pasted image 20240609000110.png",
-    "readme.md",
     "Notes/pics/Pasted image 20240601025027.png",
     "Notes/pics/Pasted image 20240601024756.png",
     "Pasted image 20240531010922.png",

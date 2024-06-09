@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5259e0c903216e14",
@@ -143,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,24 +160,25 @@
   },
   "active": "ba6c58ece84b35f4",
   "lastOpenFiles": [
-    "Notes/Introduction.md",
-    "Notes/lecture 4.md",
+    "code/lecs/lec4_cowsay.py",
+    "code/lecs/lec4_sys.py",
     "Notes/lecture 2.md",
-    "Notes/lecture 3.md",
+    "code/lecs/lec2-1.py",
     "Notes/lecture 1.md",
+    "Notes/lecture 3.md",
+    "code/lecs/meow.py",
+    "code/lecs/mario.py",
+    "code/lecs/lec4.py",
+    "code/lecs/lec3.py",
+    "code/lecs/lec2.py",
+    "code/lecs/compare.py",
+    "code/lecs",
+    "code/1-2/lec3.py",
+    "Notes/lecture 4.md",
+    "Notes/Introduction.md",
     "Pasted image 20240609000046.png",
     "Pasted image 20240609000110.png",
     "readme.md",
-    "code/3/number.py",
-    "code/3",
-    "未命名",
-    "code/1-2/meow.py",
-    "code/1-2/mario.py",
-    "code/1-2/hogwarts.py",
-    "code/1-2/compare.py",
-    "code/1-2",
-    "code/mario.py",
-    "code/meow.py",
     "Notes/pics/Pasted image 20240601025027.png",
     "Notes/pics/Pasted image 20240601024756.png",
     "Pasted image 20240531010922.png",
